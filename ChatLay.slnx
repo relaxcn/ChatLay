@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/解决方案项/">
+    <File Path=".gitignore" />
+    <File Path="AGENT.md" />
+  </Folder>
+  <Project Path="src/ChatLay.App/ChatLay.App.csproj" Id="75fa2c7c-338c-4a54-8246-23a4815c8ff3" />
+  <Project Path="src/ChatLay.Core/ChatLay.Core.csproj" Id="9f50c5b0-cec2-444d-a691-e9ab451dead0" />
+  <Project Path="src/ChatLay.Infrastructure/ChatLay.Infrastructure.csproj" Id="d101522d-b819-47c1-9fa6-6044de5ec896" />
+  <Project Path="src/ChatLay.Shared/ChatLay.Shared.csproj" Id="94d76377-f717-4d1a-a0e6-ba2ded6101e0" />
+</Solution>
